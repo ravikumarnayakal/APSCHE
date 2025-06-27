@@ -96,7 +96,7 @@ Contributions are what make the open-source community such an amazing place to l
 ## 📧 Contact
 
 **Ravikumar Nayakal**
-📩 Email: \[[your-email@example.com](mailto:ravinayakala@gmail.com)]
+📩 Email: \[[ravinayakala@gmail.com](mailto:ravinayakala@gmail.com)]
 🔗 GitHub: [@ravikumarnayakal](https://github.com/ravikumarnayakal)
 
 ---
